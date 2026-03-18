@@ -47,7 +47,19 @@ sections:
         My research integrates fieldwork, ecological and systematic approaches, and cutting-edge molecular tools to investigate the complex interactions among vectors, pathogens, and vertebrate hosts. I am particularly interested in evolutionary processes and cryptic speciation in the context of vector-borne diseases (VBDs).
 
         Please reach out to collaborate.
-
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
