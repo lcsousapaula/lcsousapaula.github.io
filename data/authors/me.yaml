@@ -98,8 +98,11 @@ languages:
     level: 4
     label: "Fluent"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
+  - title: "Odile Bain Memorial Prize 2025"
+    awarder: "Parasites & Vectors in association with Boehringer Ingelheim Animal Health"
+    date: "Aug. 2025"
+    summary: >-
+      This award has been established for Odile's outstanding contribution to medical and veterinary parasitology.
+      Winners are early-career scientists who have made significant and important contributions to the study of parasites or vectors
+      of medical or veterinary importance, reflecting Odile Bain's personal research.
     icon: "hero/trophy"
