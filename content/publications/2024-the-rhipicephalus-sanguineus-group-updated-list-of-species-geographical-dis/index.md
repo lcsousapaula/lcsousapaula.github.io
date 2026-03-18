@@ -2,9 +2,9 @@
 title: "The Rhipicephalus sanguineus group: updated list of species, geographical distribution, and vector competence."
 
 authors:
-  - "Dantas-Torres, Filipe"
-  - "**de Sousa-Paula, Lucas C**"
-  - "Otranto, Domenico"
+  - "Dantas-Torres, F"
+  - "me"
+  - "Otranto, D"
 date: "2024-12-27T00:00:00Z"
 publishDate: "2024-12-27T00:00:00Z"
 
