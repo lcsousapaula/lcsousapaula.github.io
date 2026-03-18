@@ -1,35 +1,35 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "XXIII Congresso Brasileiro de Parasitologia Veterinária"
+date: '2026-03-18T00:00:00Z'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_name: XXIII Congresso Brasileiro de Parasitologia Veterinária
+event_url: https://cbpv2026.com.br/
 
-location: Online & In-Person
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: In-Person
+address: 
+  street: Av. Pres. Antônio Carlos 6627
+  city: Belo Horizonte
+  region: MG
+  postcode: '31275-013'
+  country: Brazil
 
 summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
-event_all_day: false
+event_start: '2026-07-27T13:00:00Z'
+event_end: '2026-07-30T15:00:00Z'
+event_all_day: true
 
 authors:
   - me
 
 tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
+  - Parasitology
+  - Vector-borne diseases
+  - Congress
+  - Talk
 
 featured: true
 
