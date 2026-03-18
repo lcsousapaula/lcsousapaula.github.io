@@ -4,7 +4,7 @@ title: "The Rhipicephalus sanguineus group: updated list of species, geographica
 authors:
   - "Dantas-Torres, F"
   - "Sousa-Paula, LC"
-  - "Otranto, Domenico"
+  - "Otranto, D"
 date: "2024-12-27T00:00:00Z"
 publishDate: "2024-12-27T00:00:00Z"
 
