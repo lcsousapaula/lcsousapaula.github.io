@@ -13,7 +13,7 @@ postnominals:
   - "MIEEE"
 status:
   icon: ""
-role: "Vector Biologist"
+role: "M.Sc., Ph.D."
 bio: "Lucas Sousa-Paula is a Brazilian biologist and early-career scientist passionate about science and
 
   discovery. He is dedicated to understanding arthropod vectors and the pathogens they transmit,
@@ -36,6 +36,8 @@ links:
     url: "https://scholar.google.com/citations?hl=en-BR&user=etQmZgoAAAAJ"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-3379-1609"
+  - icon: "academicons/pubmed"
+    url: "https://www.ncbi.nlm.nih.gov/myncbi/1rcXEr9r0vwQb/bibliography/public/"  
 interests:
   - "Vector Biology"
   - "Omics Technology"
@@ -44,8 +46,8 @@ interests:
 education:
   - degree: "PhD Biosciences and Biotechnology in Health"
     institution: "Oswaldo Cruz Fundation, Brazil"
-    start: "2022"
-    end: ""
+    start: ""
+    end: "2022"
     summary: ""
     button:
       text: ""
@@ -53,41 +55,44 @@ education:
       icon: ""
   - degree: "MSc Biological Sciences"
     institution: "Universidade Federal de Pernambuco, Brazil"
-    start: "2018"
-    end: ""
+    start: ""
+    end: "2018"
   - degree: "BSc Biology"
     institution: "Universidade Estadual Vale do Acaraú, Brazil"
-    start: "2016"
-    end: ""
+    start: ""
+    end: "2016"
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
+  - role: "Postdoctoral Visiting Fellow"
+    org: "National Institutes of Health / National Institute of Allergy and Infectious Diseases - USA"
+    start: "2022-08-15"
+    summary: "Visiting fellow at the Rocky Mountain Laboratories (NIH/NIAID) receiving training on vector biology and omics techology.\n"
     button:
       text: "View portfolio"
       url: "/"
       icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Scientific Editor"
+    org: "Parasites & Vectors"
+    start: "2025"
+    end: ""
+    summary: "Associate Editor in 'Parasite genetics, genomics and proteomics' section.\n"
+    button:
+      text: "Visit the Journal's page"
+      url: "https://link.springer.com/journal/13071"
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
+      - label: "Phylogenetic Analysis"
         level: 5
-      - label: "Machine Learning"
+      - label: "Next-generation sequencing"
         level: 5
-      - label: "Cloud Computing"
-        level: 4
+      - label: "Bioinformatics"
+        level: 3
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
         level: 5
       - label: "Conference Presentations"
-        level: 4
+        level: 5
       - label: "Grant Proposals"
         level: 4
 languages:
@@ -98,7 +103,15 @@ languages:
     level: 4
     label: "Fluent"
 awards:
+  - title: "2021 Young Researcher"
+    awarder: "Brazilian Society of Tropical Medicine"
+    date: "Oct. 2021"
+    summary: >-
+      Prize for the best presentation (PhD student category) during the 56th Congress of the Brazilian Society of Tropical Medicine (Medtrop).
+    icon: "hero/trophy"
+
   - title: "Odile Bain Memorial Prize 2025"
+    url: "https://communities.springernature.com/posts/odile-bain-memorial-prize-2025-behind-the-prize"
     awarder: "Parasites & Vectors in association with Boehringer Ingelheim Animal Health"
     date: "Aug. 2025"
     summary: >-
@@ -106,3 +119,6 @@ awards:
       Winners are early-career scientists who have made significant and important contributions to the study of parasites or vectors
       of medical or veterinary importance, reflecting Odile Bain's personal research.
     icon: "hero/trophy"
+
+
+

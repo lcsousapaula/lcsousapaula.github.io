@@ -42,11 +42,11 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       I am an early-career scientist interested in arthropod vectors and the pathogens they transmit, with a particular focus on phlebotomine sand flies and ticks.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research integrates fieldwork, ecological and systematic approaches, and cutting-edge molecular tools to investigate the complex interactions among vectors, pathogens, and vertebrate hosts. I am particularly interested in evolutionary processes and cryptic speciation in the context of vector-borne diseases (VBDs).
 
-        Please reach out to collaborate 😃
+        Please reach out to collaborate.
     design:
       columns: '1'
   - block: collection
