@@ -91,10 +91,10 @@ skills:
       - label: "Grant Proposals"
         level: 4
 languages:
-  - name: "English"
+  - name: "Portuguese"
     level: 5
     label: "Native"
-  - name: "Spanish"
+  - name: "English"
     level: 4
     label: "Fluent"
 awards:
