@@ -1,12 +1,13 @@
 ---
-title: "An example journal article"
+title: "Ten simple rules for implementing deep amplicon sequencing in parasitology"
 authors:
+- Šlapeta Jan
 - me
 - Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2025-11-21T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Int J Parasitol"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Deep amplicon sequencing is transforming parasitology by enabling high-throughput profiling of parasite communities and detection of resistance-associated genetic variants. Despite its growing adoption, many researchers face challenges in implementation, and its full potential is often hindered by challenges in experimental design, including marker selection, data analysis and reproducibility. This article presents ten simple rules for applying deep amplicon sequencing in parasitology, developed through expert consensus at a deep amplicon sequencing symposium during the 2025 World Association for the Advancement of Veterinary Parasitology conference. These rules cover essential aspects from formulating research questions and choosing appropriate markers to managing data workflows and contributing to reference databases. We highlight the importance of integrating deep amplicon sequencing with traditional parasitological methods, ensuring transparent reporting and investing in capacity building. Whether you are new to deep amplicon sequencing or seeking to improve your current practices, these guidelines offer practical advice to enhance the robustness, reproducibility, and impact of your research. By adopting these principles, parasitologists can contribute to, and advance, a more reliable and collaborative scientific landscape.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -31,25 +32,12 @@ featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: 10.1016/j.ijpara.2025.11.003
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+  - type: link
+    url: https://pubmed.ncbi.nlm.nih.gov/41276107/
+  
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
