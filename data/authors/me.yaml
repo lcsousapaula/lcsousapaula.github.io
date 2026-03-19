@@ -73,16 +73,16 @@ experience:
     start: "2022-08-15"
     summary: "Visiting fellow at the Rocky Mountain Laboratories (NIH/NIAID) receiving training on vector biology and omics techology.\n"
     button:
-      text: "View portfolio"
-      url: "/"
+      text: "Rocky Mountain Laboratories"
+      url: "https://www.niaid.nih.gov/about/rocky-mountain-laboratories"
       icon: "hero/arrow-down-tray"
   - role: "Scientific Editor"
     org: "Parasites & Vectors"
     start: "2025"
     end: ""
-    summary: "Associate Editor in 'Parasite genetics, genomics and proteomics' section.\n"
+    summary: "Associate Editor in 'Parasite Genetics, Genomics and Proteomics' section.\n"
     button:
-      text: "Visit the Journal's page"
+      text: "Parasites and Vectors"
       url: "https://link.springer.com/journal/13071"
 skills:
   - name: "Technical Skills"
