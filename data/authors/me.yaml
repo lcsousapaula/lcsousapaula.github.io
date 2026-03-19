@@ -44,22 +44,29 @@ interests:
   - "Vector-borne Diseases"
 education:
   - degree: "Ph.D. Biosciences and Biotechnology in Health"
-    institution: "Oswaldo Cruz Fundation, Brazil"
+    institution: "Oswaldo Cruz Foundation, Brazil"
     start: ""
     end: "2022"
     summary: ""
     button:
-      text: ""
-      url: ""
+      text: "Fiocruz Pernambuco"
+      url: "https://www.cpqam.fiocruz.br/"
       icon: ""
   - degree: "M.Sc. Biological Sciences"
     institution: "Universidade Federal de Pernambuco, Brazil"
     start: ""
     end: "2018"
+    button:
+      text: "UFPE"
+      url: "https://www.ufpe.br/inicio"
+      icon: ""
   - degree: "B.Sc. Biology"
     institution: "Universidade Estadual Vale do Acaraú, Brazil"
     start: ""
     end: "2016"
+    button:
+      text: "UVA"
+      url: "https://www.uva.ce.gov.br/"
 experience:
   - role: "Postdoctoral Visiting Fellow"
     org: "National Institutes of Health / National Institute of Allergy and Infectious Diseases - USA"
