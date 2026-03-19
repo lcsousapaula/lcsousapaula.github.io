@@ -2,7 +2,7 @@
 title: "The Lutzomyia longipalpis complex: what's next?"
 
 authors:
-  - "Sousa-Paula, LC"
+  - "me"
 date: "2025-08-29T00:00:00Z"
 publishDate: "2025-08-29T00:00:00Z"
 

@@ -2,13 +2,13 @@
 title: "Ornithodoros cf. mimon infected with a spotted fever group Rickettsia in Brazil."
 
 authors:
-  - "Dantas-Torres, Filipe"
-  - "Marzochi, Mauro C A"
-  - "Muñoz-Leal, Sebastián"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Moraes-Filho, Jonas"
-  - "Labruna, Marcelo B"
+  - "Dantas-Torres F"
+  - "Marzochi MCA"
+  - "Muñoz-Leal S"
+  - "Sales KGS"
+  - "me"
+  - "Moraes-Filho J"
+  - "Labruna MB"
 date: "2022-05-24T00:00:00Z"
 publishDate: "2022-05-24T00:00:00Z"
 

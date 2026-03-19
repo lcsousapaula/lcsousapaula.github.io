@@ -2,12 +2,12 @@
 title: "Tick infestation on birds in an urban Atlantic Forest fragment in north-eastern Brazil."
 
 authors:
-  - "Dantas-Torres, Filipe"
-  - "Braz, Anderson Rafael Dos Santos"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Diniz, George Tadeu Nunes"
-  - "Correia, Jozelia Maria Sousa"
+  - "Dantas-Torres F"
+  - "Braz ARS"
+  - "Sales KGS"
+  - "me"
+  - "Diniz GTN"
+  - "Correia JMS"
 date: "2021-10-19T00:00:00Z"
 publishDate: "2021-10-19T00:00:00Z"
 

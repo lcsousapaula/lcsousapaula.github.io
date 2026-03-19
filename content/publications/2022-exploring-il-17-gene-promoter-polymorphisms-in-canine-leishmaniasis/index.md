@@ -2,12 +2,12 @@
 title: "Exploring IL-17 gene promoter polymorphisms in canine leishmaniasis."
 
 authors:
-  - "Gonçalves-de-Albuquerque, Suênia da C"
-  - "da Silva, Lidiane Gomes"
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "Boegel, Annette"
-  - "Dantas-Torres, Filipe"
+  - "Gonçalves-de-Albuquerque SC"
+  - "da Silva LG"
+  - "me"
+  - "Sales KGS"
+  - "Boegel A"
+  - "Dantas-Torres F"
 date: "2022-04-11T00:00:00Z"
 publishDate: "2022-04-11T00:00:00Z"
 

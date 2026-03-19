@@ -2,13 +2,13 @@
 title: "Genetic structure of allopatric populations of Lutzomyia longipalpis sensu lato in Brazil."
 
 authors:
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "da Silva, Lidiane Gomes"
-  - "da Silva Junior, Wilson José"
-  - "Figueirêdo Júnior, Carlos Alberto Santiago"
-  - "Costa, Carlos Henrique Nery"
-  - "Pessoa, Felipe Arley Costa"
-  - "Dantas-Torres, Filipe"
+  - "me"
+  - "da Silva LG"
+  - "da Silva Junior WJ"
+  - "Figueirêdo Júnior CAS"
+  - "Costa CHN"
+  - "Pessoa FAC"
+  - "Dantas-Torres F"
 date: "2021-07-03T00:00:00Z"
 publishDate: "2021-07-03T00:00:00Z"
 

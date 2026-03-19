@@ -2,10 +2,10 @@
 title: "Failure of the dog culling strategy in controlling human visceral leishmaniasis in Brazil: A screening coverage issue?"
 
 authors:
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Silva, Lidiane Gomes da"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "Dantas-Torres, Filipe"
+  - "me**"
+  - "Silva LG"
+  - "Sales KGS"
+  - "Dantas-Torres F"
 date: "2019-06-26T00:00:00Z"
 publishDate: "2019-06-26T00:00:00Z"
 

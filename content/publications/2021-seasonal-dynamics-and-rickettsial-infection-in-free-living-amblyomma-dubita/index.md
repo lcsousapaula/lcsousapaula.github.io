@@ -2,13 +2,13 @@
 title: "Seasonal dynamics and rickettsial infection in free-living Amblyomma dubitatum in the Atlantic forest biome in north-eastern Brazil."
 
 authors:
-  - "Dantas-Torres, Filipe"
-  - "Melo, Marcela Ferreira"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "da Silva, Fernando José"
-  - "Figueredo, Luciana Aguiar"
-  - "Labruna, Marcelo Bahia"
+  - "Dantas-Torres F"
+  - "Melo MF"
+  - "Sales KGS"
+  - "me"
+  - "da Silva FJ"
+  - "Figueredo LA"
+  - "Labruna MB"
 date: "2021-02-06T00:00:00Z"
 publishDate: "2021-02-06T00:00:00Z"
 

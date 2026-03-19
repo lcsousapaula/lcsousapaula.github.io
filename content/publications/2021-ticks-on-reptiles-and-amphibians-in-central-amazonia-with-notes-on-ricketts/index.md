@@ -2,14 +2,14 @@
 title: "Ticks on reptiles and amphibians in Central Amazonia, with notes on rickettsial infections."
 
 authors:
-  - "Dantas-Torres, Filipe"
-  - "Picelli, Amanda Maria"
-  - "Sales, Kamila Gaudêncio da Silva"
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Mejia, Paulo"
-  - "Kaefer, Igor Luis"
-  - "Viana, Lucio André"
-  - "Pessoa, Felipe Arley Costa"
+  - "Dantas-Torres F"
+  - "Picelli AM"
+  - "Sales KGS"
+  - "me"
+  - "Mejia P"
+  - "Kaefer IL"
+  - "Viana LA"
+  - "Pessoa FAC"
 date: "2021-12-16T00:00:00Z"
 publishDate: "2021-12-16T00:00:00Z"
 

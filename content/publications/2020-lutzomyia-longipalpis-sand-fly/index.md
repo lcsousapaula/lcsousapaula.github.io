@@ -2,9 +2,9 @@
 title: "Lutzomyia longipalpis (Sand Fly)."
 
 authors:
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Otranto, Domenico"
-  - "Dantas-Torres, Filipe"
+  - "me"
+  - "Otranto D"
+  - "Dantas-Torres F"
 date: "2020-05-26T00:00:00Z"
 publishDate: "2020-05-26T00:00:00Z"
 

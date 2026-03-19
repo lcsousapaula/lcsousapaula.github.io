@@ -2,10 +2,10 @@
 title: "Beyond taxonomy: species complexes in New World phlebotomine sand flies."
 
 authors:
-  - "**Sousa-Paula, L C de**"
-  - "Pessoa, F A C"
-  - "Otranto, D"
-  - "Dantas-Torres, F"
+  - "me"
+  - "Pessoa FAC"
+  - "Otranto D"
+  - "Dantas-Torres F"
 date: "2021-01-21T00:00:00Z"
 publishDate: "2021-01-21T00:00:00Z"
 

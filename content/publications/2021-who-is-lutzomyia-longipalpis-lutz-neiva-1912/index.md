@@ -2,8 +2,8 @@
 title: "Who is Lutzomyia longipalpis (Lutz & Neiva, 1912)?"
 
 authors:
-  - "**Sousa-Paula, Lucas Christian de**"
-  - "Dantas-Torres, Filipe"
+  - "me"
+  - "Dantas-Torres F"
 date: "2021-09-22T00:00:00Z"
 publishDate: "2021-09-22T00:00:00Z"
 
