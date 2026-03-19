@@ -8,21 +8,6 @@ tags:
   - Trends in Parasitology
   - Cover
   - Journal
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
 image:
   caption: 'Image credit: [**Trends in Parasitology**](https://www.cell.com/trends/parasitology/issue?pii=S1471-4922(24)X0012-4#fullCover)'
 ---
