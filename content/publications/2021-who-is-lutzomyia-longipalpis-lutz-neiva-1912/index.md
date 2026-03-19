@@ -9,7 +9,7 @@ publishDate: "2021-09-22T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*Acta tropica*"
+publication: "*Acta Tropica*"
 publication_short: ""
 
 abstract: ""

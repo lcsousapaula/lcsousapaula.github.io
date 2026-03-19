@@ -1,5 +1,5 @@
 ---
-title: "Complete Genome Sequence of"
+title: "Complete Genome Sequence of Xanthomonas campestris pv. viticola Strain CCRMXCV 80 from Brazil"
 
 authors:
   - "Lima NB"
@@ -18,7 +18,7 @@ publishDate: "2017-11-16T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*Genome announcements*"
+publication: "*Genome Announcements*"
 publication_short: ""
 
 abstract: "Here, we report the complete 5.3-Mb genome sequence of Xanthomonas campestris pv. viticola (CCRMXCV 80), which causes grapevine (Vitis vinifera L.) bacterial canker. Genome data will improve our understanding of the strain's comparative genomics and epidemiology, and help to further define plant protection and quarantine procedures."

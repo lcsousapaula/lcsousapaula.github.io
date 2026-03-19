@@ -10,7 +10,7 @@ publishDate: "2020-05-26T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*Trends in parasitology*"
+publication: "*Trends in Parasitology*"
 publication_short: ""
 
 abstract: ""
