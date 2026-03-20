@@ -63,3 +63,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+services:
+  googleAnalytics:
+    id: G-LKB015P2N5
