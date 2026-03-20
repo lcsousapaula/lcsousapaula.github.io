@@ -74,8 +74,7 @@ experience:
     summary: "Visiting fellow at the Rocky Mountain Laboratories (NIH/NIAID) receiving training on vector biology and omics techology.\n"
     button:
       text: "Rocky Mountain Laboratories"
-      url: "https://www.niaid.nih.gov/about/rocky-mountain-laboratories"
-      icon: "hero/arrow-down-tray"
+      url: "https://www.niaid.nih.gov/about/rocky-mountain-laboratories"      
   - role: "Scientific Editor"
     org: "Parasites & Vectors"
     start: "2025"
