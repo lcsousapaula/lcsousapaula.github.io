@@ -37,7 +37,7 @@ authors:
   - "Peachey LE"
   - "Robleto-Quesada J"
   - "von Samson-Himmelstjerna G"
-  - "Sousa-Paula LC"
+  - "me"
   - "Gilleard JS"
 date: "2025-11-21T00:00:00Z"
 publishDate: "2025-11-21T00:00:00Z"
