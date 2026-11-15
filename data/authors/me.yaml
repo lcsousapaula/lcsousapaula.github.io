@@ -9,18 +9,17 @@ name:
   pronunciation: ""
   pronouns: ""
 postnominals:
-  - "MSc, PhD"
+  - "PhD"
 status:
   icon: ""
-role: "Vector Biology | Ticks | Phlebotomine Sand Flies | Omics"
+role: "Vector Biology | Ticks & Phlebotomine Sand Flies"
 bio: >-
   Lucas Sousa-Paula is a Brazilian biologist studying ticks, phlebotomine sand flies,
   and the pathogens they transmit. His work brings together field biology, systematics,
   evolutionary biology, and molecular and omics approaches to understand vector diversity
   and vector–pathogen interactions. He is based in Recife, Brazil, and collaborates with
   research groups in Brazil and internationally.
-affiliations:
-  - name: "MSc, PhD"
+affiliations: []
 links:
   - icon: "at-symbol"
     url: "mailto:lcsousapaula@gmail.com"
