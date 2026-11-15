@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: In porgress...
+      title: Research Themes & Projects
+      text: My research connects vector diversity and evolution with genomics, ecology, and pathogen surveillance. I welcome collaborations with researchers and students working in these areas.
       filters:
         folders:
           - projects

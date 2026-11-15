@@ -12,15 +12,16 @@ postnominals:
   - "MSc PhD"
 status:
   icon: ""
-role: "M.Sc., Ph.D."
-bio: "Lucas Sousa-Paula is a Brazilian biologist and early-career scientist passionate about science and
-
-  discovery. He is dedicated to understanding arthropod vectors and the pathogens they transmit,
-
-  integrating fieldwork and vector biology with cutting-edge molecular approaches.\n"
+role: "Vector Biology | Ticks, Sand Flies & Omics"
+bio: >-
+  Lucas Sousa-Paula is a Brazilian biologist studying ticks, phlebotomine sand flies,
+  and the pathogens they transmit. His work brings together field biology, systematics,
+  evolutionary biology, and molecular and omics approaches to understand vector diversity
+  and vector–pathogen interactions. He is based in Recife, Brazil, and collaborates with
+  research groups in Brazil and internationally.
 affiliations:
-  - name: ""
-    url: ""
+  - name: "Instituto Aggeu Magalhães, Fiocruz Pernambuco"
+    url: "https://www.cpqam.fiocruz.br/"
 links:
   - icon: "at-symbol"
     url: "mailto:lcsousapaula@gmail.com"
