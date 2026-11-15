@@ -39,17 +39,43 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
-      title: 'My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-       I am an early-career scientist interested in arthropod vectors and the pathogens they transmit, with a particular focus on phlebotomine sand flies and ticks.
+        I study how vector diversity, evolution, and ecology shape the transmission of vector-borne pathogens. My work centers on ticks and phlebotomine sand flies, combining field and ecological research with systematics, molecular biology, and omics.
 
-        My research integrates fieldwork, ecological and systematic approaches, and cutting-edge molecular tools to investigate the complex interactions among vectors, pathogens, and vertebrate hosts. I am particularly interested in evolutionary processes and cryptic speciation in the context of vector-borne diseases (VBDs).
+        ### Tick genomics and systematics
 
-        Please reach out to collaborate.
+        Reference genomes and phylogenomic approaches can help resolve species boundaries and improve the tools available for tick research.
+
+        ### Sand fly diversity and omics
+
+        I use systematic and molecular approaches to investigate phlebotomine diversity, evolutionary relationships, and the biology of medically important species.
+
+        ### Vector–pathogen interactions
+
+        I am interested in how vector, pathogen, and vertebrate-host relationships influence transmission, and how molecular methods can strengthen surveillance.
+
+        **Interested in working together?** [Get in touch](mailto:lcsousapaula@gmail.com) to discuss collaborations, data, or student projects.
     design:
       columns: '1'
+  - block: collection
+    id: projects
+    content:
+      title: Research Themes & Projects
+      text: See current areas of work and collaboration.
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: true
   - block: collection
     id: papers
     content:
