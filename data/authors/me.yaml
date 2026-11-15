@@ -9,7 +9,7 @@ name:
   pronunciation: ""
   pronouns: ""
 postnominals:
-  - "MSc, PhD"
+  - "PhD"
 status:
   icon: ""
 role: "Vector Biology | Ticks | Phlebotomine Sand Flies | Omics"
@@ -19,8 +19,7 @@ bio: >-
   evolutionary biology, and molecular and omics approaches to understand vector diversity
   and vector–pathogen interactions. He is based in Recife, Brazil, and collaborates with
   research groups in Brazil and internationally.
-affiliations:
-  - name: "MSc, PhD"
+affiliations: []
 links:
   - icon: "at-symbol"
     url: "mailto:lcsousapaula@gmail.com"
